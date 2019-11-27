@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T08:47:59.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TOpngYVpN5UsoKfD8ijY" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-27T08:50:32.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ScCkCymH3HAL4-VkDblH" version="12.3.1" type="github" pages="1">
   <diagram id="gXM3Ycw-fR02b8TOL5E9" name="Page-1">
     <mxGraphModel dx="772" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -163,8 +163,8 @@
         <mxCell id="KGu_Q4hgnfblnTcpn7K5-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash" parent="1" vertex="1">
           <mxGeometry x="65" y="1130" width="20" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="KGu_Q4hgnfblnTcpn7K5-55" value="redo point is xlog2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="455" width="120" height="10" as="geometry"/>
+        <mxCell id="KGu_Q4hgnfblnTcpn7K5-55" value="redo point is xlog2(the last flush xlog)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="455" width="240" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="KGu_Q4hgnfblnTcpn7K5-56" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
